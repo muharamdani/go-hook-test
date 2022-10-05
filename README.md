@@ -1,4 +1,4 @@
 RUN COMMAND
 ```
-git commit --allow-empty -m "Testing Git Hook" 
+git config core.hooksPath .githooks
 ```
